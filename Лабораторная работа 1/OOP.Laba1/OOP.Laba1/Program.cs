@@ -6,12 +6,9 @@ namespace OOP.Lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Нажмите любую клавишу для начал программы...");
-            Console.ReadKey();
             int choice = -1;
             do
             {
-                Console.Clear();
                 Console.WriteLine("Какую задачу вы хотите выполнить?");
                 Console.WriteLine("\nЗадача 1: Значения выражений" +
                     "\nЗадача 2: Принадлежность области" +
