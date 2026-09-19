@@ -24,7 +24,7 @@ namespace OOP.Lab1
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("\nОшибка: введите число от 0 до 3.");
+                    Console.WriteLine("\nОшибка: введите целое число от 0 до 3.");
                     Console.WriteLine("Нажмите любую клавишу, чтобы вернуться в меню...");
                     Console.ReadKey();
                     continue;
@@ -56,6 +56,13 @@ namespace OOP.Lab1
         }
 
 
+        private static void Key() 
+        {
+            Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
+            Console.ReadKey();
+        }
+
+
         private static void Task1()
         {
             Console.Write("\nВведите число m: ");
@@ -72,8 +79,7 @@ namespace OOP.Lab1
                 int result1 = m1 / -(-n1++); // ВОТ ЗДЕСЬ СДЕЛАЛ ЗАДАНИЕ ИЗ ВАРИАНТА ПО СВОЕМУ!!!
                 Console.WriteLine($"m/-(-n++) = {result1}");
                 Console.WriteLine($"После операции: n = {n1}, m = {m1}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch(Exception ex)
             { 
@@ -89,8 +95,7 @@ namespace OOP.Lab1
                 bool result2 = m2 / n2 < n2--;
                 Console.WriteLine($"m/n<n-- = {result2}");
                 Console.WriteLine($"После операции: n = {n2}, m = {m2}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch (Exception ex)
             {
@@ -106,8 +111,7 @@ namespace OOP.Lab1
                 bool result3 = m3 + n3++ > n3 + m3;
                 Console.WriteLine($"m+n++>n+m = {result3}");
                 Console.WriteLine($"После операции: n = {n3}, m = {m3}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch( Exception ex)
             {
@@ -128,8 +132,7 @@ namespace OOP.Lab1
                 Console.WriteLine($"sqrt(|x-1|)  = {p1}");
                 Console.WriteLine($"|25 - x^5|   = {p2}");
                 Console.WriteLine($"Результат    = {result4}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch (Exception ex)
             {
@@ -153,8 +156,7 @@ namespace OOP.Lab1
                 // Если точка лежит выше или на гипотенузе: Y1 >= -X1/7.0 - 1 
                 Console.WriteLine($"\nТочка ({X1}; {Y1})");
                 Console.WriteLine($"Принадлежит заштрихованной области: {result1}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch (Exception ex)
             {
@@ -177,8 +179,7 @@ namespace OOP.Lab1
                 Console.WriteLine($"Числитель  = {upD}");
                 Console.WriteLine($"Знаменатель = {downD}");
                 Console.WriteLine($"Результат   = {resultD}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
 
                 // С типом float
                 float aF = (float)a;
@@ -190,16 +191,14 @@ namespace OOP.Lab1
                 Console.WriteLine($"Числитель  = {upF}");
                 Console.WriteLine($"Знаменатель = {downF}");
                 Console.WriteLine($"Результат   = {resultF}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
 
                 // Сравнение float и double
                 Console.WriteLine("Сравнение типов: ");
                 Console.WriteLine($"double  = {resultD}");
                 Console.WriteLine($"float = {resultF}");
                 Console.WriteLine($"Разница: {Math.Abs(resultD - resultF)}");
-                Console.WriteLine("Нажмите любую клавишу чтобы продолжить...");
-                Console.ReadKey();
+                Key();
             }
             catch (Exception ex)
             {
