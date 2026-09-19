@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\bin\Debug\net10.0\OOP.Laba1.exe
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\bin\Debug\net10.0\OOP.Laba1.deps.json
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\bin\Debug\net10.0\OOP.Laba1.runtimeconfig.json
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\bin\Debug\net10.0\OOP.Laba1.dll
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\bin\Debug\net10.0\OOP.Laba1.pdb
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.dll
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\refint\OOP.Laba1.dll
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.pdb
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\ref\OOP.Laba1.dll
+C:\Users\Пользователь\Documents\OOP.Laba1\OOP.Laba1\obj\Debug\net10.0\OOP.Laba1.csproj.Up2Date
