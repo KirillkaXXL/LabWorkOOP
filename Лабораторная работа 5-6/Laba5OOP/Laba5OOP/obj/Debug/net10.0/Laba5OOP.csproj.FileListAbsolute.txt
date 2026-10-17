@@ -1,0 +1,32 @@
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.exe
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.deps.json
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.runtimeconfig.json
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.dll
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.pdb
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.dll
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\refint\Laba5OOP.dll
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.pdb
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\ref\Laba5OOP.dll
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.csproj.Up2Date
+C:\Users\Пользователь\Documents\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.exe
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.deps.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\bin\Debug\net10.0\Laba5OOP.pdb
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\refint\Laba5OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.pdb
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\ref\Laba5OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 5-6\Laba5OOP\Laba5OOP\obj\Debug\net10.0\Laba5OOP.csproj.Up2Date
