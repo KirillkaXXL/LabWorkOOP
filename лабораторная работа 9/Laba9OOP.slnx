@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Laba9OOP.Tests/Laba9OOP.Tests.csproj" Id="2f5f73ee-4a4d-4ff0-b7d0-bf8c13efd24b" />
+  <Project Path="Laba9OOP/Laba9OOP.csproj" />
+</Solution>
