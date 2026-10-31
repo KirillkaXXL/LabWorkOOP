@@ -1,0 +1,32 @@
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.exe
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.deps.json
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.runtimeconfig.json
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.runtimeconfig.dev.json
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.dll
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.pdb
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.dll
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\refint\Laba9OOP.dll
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.pdb
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\ref\Laba9OOP.dll
+C:\Users\Пользователь\Documents\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.exe
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.deps.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\bin\Debug\net10.0\Laba9OOP.pdb
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\refint\Laba9OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.pdb
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\ref\Laba9OOP.dll
+C:\Users\Пользователь\Desktop\Дз\ООП\Лабораторная работа 9\Laba9OOP\Laba9OOP\obj\Debug\net10.0\Laba9OOP.csproj.Up2Date
