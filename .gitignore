@@ -1,0 +1,6 @@
+# Игнорировать системные файлы Visual Studio
+bin/
+obj/
+.vs/
+TestResults/
+*.user
