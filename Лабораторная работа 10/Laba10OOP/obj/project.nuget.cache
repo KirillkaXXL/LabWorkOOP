@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aT3EDGv9fls=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\Documents\\Laba10OOP\\Laba10OOP\\Laba10OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

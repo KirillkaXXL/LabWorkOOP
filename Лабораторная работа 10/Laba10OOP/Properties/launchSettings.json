@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Laba10OOP": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
