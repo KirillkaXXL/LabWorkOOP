@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="Laba10OOP.Library/Laba10OOP.Library.csproj" />
+  <Project Path="Laba10OOP.Tests/Laba10OOP.Tests.csproj" />
+  <Project Path="Laba10OOP/Laba10OOP.csproj" />
+</Solution>
