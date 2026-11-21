@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Laba11OOP.Library/Laba11OOP.Library.csproj" />
+  <Project Path="Laba11OOP.Tests/Laba11OOP.Tests.csproj" />
+  <Project Path="Laba11OOP/Laba11OOP.csproj" />
+</Solution>
